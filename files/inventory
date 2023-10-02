@@ -10,7 +10,7 @@ centos@192.168.56.108
 [file_servers]
 jherwin@192.168.56.102
 
-[workstation]
+[workstations]
 jherwin@192.168.56.103
 
 
